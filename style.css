@@ -14,7 +14,7 @@ h2{
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 #ami{
     text-align: center;
@@ -33,4 +33,12 @@ h2{
 #edu{
     margin-left: 40px;
 
+}
+.sachar{
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    float: left;
+    border-radius: 5px;
 }
